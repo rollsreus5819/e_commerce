@@ -1,0 +1,12 @@
+order_status_id	status
+1	Menunggu Pengesahan Peniaga
+2	Pesanan diterima
+3	Pesanan ditolak
+4	Pesanan dibatalkan
+5	Pesanan sedang disediakan
+6	Pesanan sudah siap dan boleh diambil
+7	Pesanan sudah siap dan dalam perjalanan
+8	Sahkan kod kepada pelanggan
+9	Menunggu pengesahan kod
+10	Menunggu bayaran
+11	Transaksi selesai
